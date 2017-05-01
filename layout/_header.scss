@@ -1,0 +1,8 @@
+/* header layout */
+.hdr {
+	flex: 0 1 auto;
+	margin-top: 0;
+	padding: 1em 0 0;
+	background-color: $c-header-bg;
+	border-bottom: 1px solid $c-header-border;
+}

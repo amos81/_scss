@@ -1,0 +1,15 @@
+// navigation layout 
+.nav {
+	&__list {
+		list-style: none;
+		overflow: hidden;
+	}
+	&__item {
+		margin: 0;
+		float: left;
+	}
+	&__link {
+		display: block;
+		padding: .5em;
+	}
+}
